@@ -71,4 +71,3 @@ gem "dotenv-rails", groups: [:development, :test]
 
 gem 'rspec-rails', group: [ :test ]
 gem 'rails-controller-testing', group: [ :test ]
-gem 'activestorage'
